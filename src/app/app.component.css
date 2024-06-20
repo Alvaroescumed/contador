@@ -1,0 +1,18 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    text-align: center;
+}
+
+.counter-container{
+    margin-top: 25vh ;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.button-conatiner{
+    display: flex;
+    flex-direction: row;
+}
+
